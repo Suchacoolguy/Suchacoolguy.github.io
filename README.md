@@ -1,2 +1,2 @@
 # suchacoolguys-blog-jekyll-docker
-Making my programming blog using docker
+to make my programming blog using docker
